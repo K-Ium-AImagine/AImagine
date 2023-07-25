@@ -35,5 +35,16 @@
 > ### 추론코드 : [run_inference.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/run_inference.py)
 > ### model 디렉토리 : [models](https://github.com/K-Ium-AImagine/AImagine/tree/main/models)
 
+<br />
 
-
+## 📌 팀 소개
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/90829718?s=400&u=90d56923e2706f34c55a65af5a57da741856d97f&v=4"width="100px;" alt=""/><br /><sub><b> 팀장 : 김동준 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/105621255?v=4" width="100px;" alt=""/><br /><sub><b> 팀원  : 박경민 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/114977536?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 박상준 </b></sub></a><br /></td>
+      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/113533845?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 최유진 </b></sub></a><br /></td>
+      </tr>
+  </tbody>
+</table>
