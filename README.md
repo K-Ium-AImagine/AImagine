@@ -28,4 +28,4 @@
 ![AUC](https://github.com/K-Ium-AImagine/AImagine/assets/90829718/cdd67058-535b-43d6-9c00-6649149a274f)
 
 <br />
-###[학습코드 train_model.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/train_model.py)
+### [학습코드 train_model.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/train_model.py)
