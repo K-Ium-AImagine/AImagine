@@ -41,10 +41,10 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/90829718?s=400&u=90d56923e2706f34c55a65af5a57da741856d97f&v=4"width="100px;" alt=""/><br /><sub><b> 팀장 : 김동준 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/105621255?v=4" width="100px;" alt=""/><br /><sub><b> 팀원  : 박경민 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/114977536?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 박상준 </b></sub></a><br /></td>
-      <td align="center"><a href=""><img src="https://avatars.githubusercontent.com/u/113533845?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 최유진 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/dj991108"><img src="https://avatars.githubusercontent.com/u/90829718?s=400&u=90d56923e2706f34c55a65af5a57da741856d97f&v=4"width="100px;" alt=""/><br /><sub><b> 팀장 : 김동준 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kyungmin"><img src="https://avatars.githubusercontent.com/u/105621255?v=4" width="100px;" alt=""/><br /><sub><b> 팀원  : 박경민 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/plopPark"><img src="https://avatars.githubusercontent.com/u/114977536?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 박상준 </b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/cyujin"><img src="https://avatars.githubusercontent.com/u/113533845?v=4" width="100px;" alt=""/><br /><sub><b> 팀원 : 최유진 </b></sub></a><br /></td>
       </tr>
   </tbody>
 </table>
