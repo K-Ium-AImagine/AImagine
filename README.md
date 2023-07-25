@@ -20,6 +20,7 @@
 
 ## 🔍 1차 검증 결과
 > 1차 검증데이터에 대한 AUROC값
+> AUROC of the model : 0.971  /  Accuracy for locations : 0.9638
 <br />
 
 ![AUC](https://github.com/K-Ium-AImagine/AImagine/assets/90829718/cdd67058-535b-43d6-9c00-6649149a274f)
