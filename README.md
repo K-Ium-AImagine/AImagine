@@ -33,6 +33,7 @@
 
 > ### 학습코드 : [train_model.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/train_model.py)
 > ### 추론코드 : [run_inference.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/run_inference.py)
+> ### model 디렉토리 : [models](https://github.com/K-Ium-AImagine/AImagine/tree/main/models)
 
 
 
