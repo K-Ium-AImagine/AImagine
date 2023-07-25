@@ -29,4 +29,9 @@
 
 <br />
 
-## [학습코드 train_model.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/train_model.py)
+## 🛠 학습 & 추론 코드
+
+### [학습코드 train_model.py](https://github.com/K-Ium-AImagine/AImagine/blob/main/train_model.py)
+
+
+
