@@ -19,7 +19,7 @@
 - pretrained model : efficientnet_b0
 
 ## 🔍 1차 검증 결과
-> 1차 검증데이터에 대한 AUROC값
+> 1차 검증데이터에 대한 AUROC값 <br />
 > AUROC of the model : 0.971  /  Accuracy for locations : 0.9638
 <br />
 
